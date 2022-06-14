@@ -1,5 +1,5 @@
 {
-    "IMAGINARYBOARD": {
+    "G491": {
         "inherits": [
             "MCU_STM32G491xE"
         ],
