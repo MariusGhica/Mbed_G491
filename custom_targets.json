@@ -1,0 +1,8 @@
+{
+    "IMAGINARYBOARD": {
+        "inherits": [
+            "MCU_STM32G491xE"
+        ],
+        "device_name": "STM32G491RET"
+    }
+}
